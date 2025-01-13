@@ -39,7 +39,7 @@
     "@ecl/preset-ec": "4.3.0",
     "class-transformer": "^0.5.1",
     "cookie-parser": "^1.4.7",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "leaflet": "^1.9.4",
     "leaflet-gesture-handling": "^1.2.2",
     "leaflet.markercluster": "^1.5.3",
